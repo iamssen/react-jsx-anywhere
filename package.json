@@ -1,0 +1,36 @@
+{
+  "name": "react-jsx-anywhere",
+  "version": "0.1.0",
+  "description": "Parse react jsx tags to javascript",
+  "main": "index.js",
+  "typescript": {
+    "definitions": "jsx.d.ts"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iamssen/react-jsx-anywhere.git"
+  },
+  "keywords": [
+    "react",
+    "jsx",
+    "gulp",
+    "grunt",
+    "webpack"
+  ],
+  "author": "SSen <i@ssen.name>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamssen/react-jsx-anywhere/issues"
+  },
+  "homepage": "https://github.com/iamssen/react-jsx-anywhere",
+  "dependencies": {
+    "event-stream": "^3.2.2",
+    "gulp": "^3.8.11",
+    "gulp-util": "^3.0.4",
+    "react-tools": "^0.12.2",
+    "through": "^2.3.6"
+  }
+}
