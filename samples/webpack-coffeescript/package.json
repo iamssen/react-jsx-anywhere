@@ -1,0 +1,6 @@
+{
+	"devDependencies": {
+		"react-jsx-anywhere": "*",
+		"coffee-loader": "*"
+	}
+}
