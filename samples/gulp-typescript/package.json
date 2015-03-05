@@ -1,0 +1,8 @@
+{
+	"devDependencies": {
+		"gulp": "*",
+		"react-jsx-anywhere": "*",
+		"gulp-typescript": "*",
+		"run-sequence": "*"
+	}
+}
